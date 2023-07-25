@@ -1,0 +1,14 @@
+export default {
+  COLORS: {
+    DARK100: '#000000',
+    GRAY300: '#342F2B',
+    GOLD300: '#735F32',
+    GOLD500: '#C69749',
+    BROWN100: '#1A120B',
+    BROWN300: '#3C2A21',
+    BROWN400: '#654738',
+    LIGHT500: '#D5CEA3',
+    LIGHT400: '#E5E5CB',
+    LIGHT300: '#E6E6DA',
+  }
+}
